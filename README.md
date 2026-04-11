@@ -74,14 +74,6 @@ Focus: Scalable Backend Systems, Real-Time Applications, Clean Architecture
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanAshraf3000&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌟 Featured Engineering Projects
 
 ### 🦷 AsnanLink Platform
