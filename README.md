@@ -103,7 +103,7 @@ Focus: Backend Systems, System Design, Scalable Architectures
 
 ## 🌟 Featured Engineering Projects
 
-### AsnanLink Platform
+### [AsnanLink Platform](https://www.asnanlink.app/en)
 > Full-stack dental/medical platform with real-time communication features.
 
 **Tech Used:**  
